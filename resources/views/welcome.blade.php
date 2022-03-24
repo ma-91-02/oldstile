@@ -22,40 +22,6 @@
     </ul> -->
   </div>
   <!-- End Landing -->
-  <!-- Start Events -->
-  <div class="events" id="skidki">
-    <div class="dots dots-up"></div>
-    <div class="dots dots-down"></div>
-    <h2 class="main-title">Акция</h2>
-    <div class="container">
-      <img src="images/events.png" alt="" />
-      <div class="info">
-        <div class="time">
-          <div class="unit">
-            <span class="days">15</span>
-            <span>ДНИ</span>
-          </div>
-          <div class="unit">
-            <span class="hours">08</span>
-            <span>ЧАСЫ</span>
-          </div>
-          <div class="unit">
-            <span class="minutes">45</span>
-            <span>МИНУТЫ</span>
-          </div>
-          <div class="unit">
-            <span class="seconds">55</span>
-            <span>СЕКУНДЫ</span>
-          </div>
-        </div>
-        <h2 class="title">Акция до конца недели</h2>
-        <p class="description">
-          Только до конца недели скидка на все виды услуг 20%!
-        </p>
-      </div>
-    </div>
-  </div>
-  <!-- End Events -->
   <!-- Start Services -->
    <div class="articles" id="uslugi">
     <h2 class="main-title">Наши услуги</h2>
@@ -66,38 +32,38 @@
     <div class="container">
 
       <div class="box">
-        <img src="images/01.webp" alt="" />
+        <img src="storage/images/01.webp" alt="" />
         <div class="content">
           <p>Перетяжка мягкой мебели любой сложности</p>
         </div>
 
       </div>
       <div class="box">
-        <img src="images/02.webp" alt="" />
+        <img src="storage/images/02.webp" alt="" />
         <div class="content">
           <p>Мебель индивидуального изготовления</p>
         </div>
       </div>
       <div class="box">
-        <img src="images/03.webp" alt="" />
+        <img src="storage/images/03.webp" alt="" />
         <div class="content">
           <p>Ремонт и замена механизма трансформации</p>
         </div>
       </div>
       <div class="box">
-        <img src="images/04.webp" alt="" />
+        <img src="storage/images/04.webp" alt="" />
         <div class="content">
           <p>Замена поролона, ремонт и замена пружин</p>
         </div>
       </div>
       <div class="box">
-        <img src="images/05.webp" alt="" />
+        <img src="storage/images/05.webp" alt="" />
         <div class="content">
           <p>Восстановление деревянного каркаса мебели</p>
         </div>
       </div>
       <div class="box">
-        <img src="images/06.webp" alt="" />
+        <img src="storage/images/06.webp" alt="" />
         <div class="content">
           <p>Обновление и изменение дизайна мягкой мебели</p>
         </div>
@@ -128,49 +94,49 @@
     <h2 class="main-title">Материалы, которые мы используем</h2>
     <div class="container">
       <div class="box">
-        <img src="/images/m1.webp" alt="">
+        <img src="storage/images/m1.webp" alt="">
         <div class="info">
           <p>Натуральная кожа</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m2.webp" alt="">
+        <img src="storage/images/m2.webp" alt="">
         <div class="info">
           <p>Искусственная кожа</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m3.webp" alt="">
+        <img src="storage/images/m3.webp" alt="">
         <div class="info">
           <p>Эко кожа</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m4.webp" alt="" >
+        <img src="storage/images/m4.webp" alt="" >
         <div class="info">
           <p>Велюр</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m5.webp" alt="">
+        <img src="storage/images/m5.webp" alt="">
         <div class="info">
           <p>Флок</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m6.webp" alt="">
+        <img src="storage/images/m6.webp" alt="">
         <div class="info">
           <p>Жаккард</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m7.webp" alt="">
+        <img src="storage/images/m7.webp" alt="">
         <div class="info">
           <p>Шенилл</p>
         </div>
       </div>
       <div class="box">
-        <img src="/images/m8.webp" alt="">
+        <img src="storage/images/m8.webp" alt="">
         <div class="info">
           <p>Рогожка</p>
         </div>

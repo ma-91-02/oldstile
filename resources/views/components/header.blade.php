@@ -8,10 +8,10 @@
     <!-- Render All Elements Normally -->
     <link rel="stylesheet" href="css/normalize.css" />
     <!-- Font Awesome Library -->
-    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
     <!-- Main Template CSS File -->
-    <link rel="stylesheet" href="css/kasper.css" />
-    <link rel="stylesheet" href="css/your-ma.css">
+    <link rel="stylesheet" href="css/app.css" />
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet" />
