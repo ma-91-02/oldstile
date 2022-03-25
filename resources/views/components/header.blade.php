@@ -22,12 +22,9 @@
       <div class="container">
         <a href="#" class="logo">oldstol</a>
         <ul class="main-nav">
-          <li><a href="#skidki">АКЦИИ И СКИДКИ</a></li>
           <li><a href="#uslugi">Услуги</a></li>
-
-          <li><a href="#rassrochka">Рассрочка</a></li>
+          <li><a href="#isgotovlene">ИЗГОТОВЛЕНИЕ КАРЕТНОЙ СТЯЖКИ</a></li>
           <li><a href="#materialy">Материалы</a></li>
-
         </ul>
       </div>
     </div>

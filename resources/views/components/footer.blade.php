@@ -26,8 +26,7 @@
          </div>
          <div class="box">
              <ul class="links">
-                 <li><a href="#uslugi">УСЛУГИ</a></li>
-                 <li><a href="#rassrochka">РАССРОЧКА</a></li>
+                 <li><a href="#isgotovlene">ИЗГОТОВЛЕНИЕ КАРЕТНОЙ СТЯЖКИ</a></li>
                  <li><a href="#materialy">МАТЕРИАЛЫ</a></li>
                  <li><a href="#skidki">АКЦИИ И СКИДКИ</a></li>
              </ul>
@@ -49,6 +48,14 @@
                      <span>+7953-126-54-54</span>
                  </div>
              </div>
+         </div>
+         <div class="box footer-gallery">
+             <img src="storage/images/01.webp" alt="" />
+             <img src="storage/images/02.webp" alt="" />
+             <img src="storage/images/03.webp" alt="" />
+             <img src="storage/images/04.webp" alt="" />
+             <img src="storage/images/05.webp" alt="" />
+             <img src="storage/images/06.webp" alt="" />
          </div>
      </div>
      <p class="copyright">Made With AL-ZURFI MOHAMMED</p>
