@@ -26,9 +26,9 @@
          </div>
          <div class="box">
              <ul class="links">
+                 <li><a href="#uslugi">УСЛУГИ</a></li>
                  <li><a href="#isgotovlene">ИЗГОТОВЛЕНИЕ КАРЕТНОЙ СТЯЖКИ</a></li>
                  <li><a href="#materialy">МАТЕРИАЛЫ</a></li>
-                 <li><a href="#skidki">АКЦИИ И СКИДКИ</a></li>
              </ul>
          </div>
          <div class="box">
